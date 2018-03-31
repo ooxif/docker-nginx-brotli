@@ -1,6 +1,6 @@
 # Nginx with brotli
 
-Mainline nginx and [eustas's nginx_brotli fork](https://github.com/eustas/ngx_brotli).
+Mainline nginx and [eustas's ngx_brotli fork](https://github.com/eustas/ngx_brotli).
 
 This image does not contain default site config.
 
